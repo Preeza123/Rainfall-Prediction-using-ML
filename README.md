@@ -10,3 +10,5 @@ This project applies machine learning techniques to predict rainfall, providing 
 - *Future Enhancements*: Suggestions for integrating deep learning architectures, improving real-time data updates, and leveraging remote sensing data.
 
 This project demonstrates how machine learning can enhance rainfall forecasting accuracy, benefiting resource allocation and strategic planning in agriculture and beyond.
+
+Demo: http://localhost:8888/notebooks/RAINFALL%20PREDICTION%20PROJECT.ipynb#
